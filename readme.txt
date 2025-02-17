@@ -1,0 +1,2 @@
+The project processes stock data, calculates changes, gains, and losses, includes file upload and TradingView APIs,
+ensures security with `.env`, integrates logging, and requires further calculations and database setup.

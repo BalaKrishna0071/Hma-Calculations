@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+db_manager.py~
+
+.env
+files
+logs
+static
+venv
